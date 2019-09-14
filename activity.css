@@ -1,0 +1,32 @@
+.p1 {
+    font-weight:bold;
+    font-size:30px;
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#box1 {
+    
+    color:black;
+    font-size: 15px;
+    width:700px;
+    height:100px;
+   margin:0px;
+    border:10px;
+    border-color:black; 
+}
+
+.p2  {
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.p3 {
+    color:blue;
+}
+
+a:hover {
+    color:rgb(226, 43, 43);
+    font-size: smaller;
+}
